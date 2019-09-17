@@ -1,4 +1,4 @@
-print ("fgfg")
+print ("trololo")
 print ("sdsds")
 def add (x, y):
   return x + y
