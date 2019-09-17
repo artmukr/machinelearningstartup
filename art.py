@@ -1,10 +1,2 @@
 print ("Hallo ")
-
-
-
-
-
-
-
-
-
+print ("fgfg")
